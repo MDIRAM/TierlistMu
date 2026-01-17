@@ -8,7 +8,7 @@ package tierlist;
  * @version 1.0
  */
 public class Main {
-    
+                //awdadadawdWDADAWDAD
     /**
      * Main method - dijalankan pertama kali saat aplikasi start
      * Menggunakan SwingUtilities.invokeLater untuk thread safety di GUI
